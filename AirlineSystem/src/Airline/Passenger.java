@@ -1,10 +1,10 @@
 package Airline;
 
-public class passenger {
+public class Passenger {
 	private String firstName, lastName, email, tel;
 	private int id;
 
-	passenger() {
+	Passenger() {
 
 	}
 
